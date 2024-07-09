@@ -1,5 +1,5 @@
 import './index.css';
-import logo from './images/logo.png';
+import logo from './images/logo copy.png';
 import React, { useEffect, useState } from 'react';
 import image1 from './images/image1 copy 3.JPG';
 import image2 from './images/image2 copy 3.JPG';
@@ -151,7 +151,7 @@ function App() {
       <div className={`flex flex-row w-full content-below ${isMenuOpen ? 'menu-open' : ''}`}>
         <div className="flex flex-row justify-center h-[687px] w-[42vw] custom-gradient">
           <div className="flex flex-col text-center w-[40vw]">
-            <p className="text-white text-[21px] mt-[70px] headquarters">Trustworthy Glass is your MN Showerdoor Headquarters</p>
+            <p className="text-white text-[21px] mt-[70px] headquarters">Trustworthy Glass is your MN Glass Repair Headquarters</p>
             <div className="w-full justify-center mx-auto">
               <p className="mt-[130px] text-white headquarters">Trustworthy Glass is family owned and operated since</p>
               <p className="mt-[25px] text-white headquarters">2008. We are proud to be a part of the Shoreview</p>
