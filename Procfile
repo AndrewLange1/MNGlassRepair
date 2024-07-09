@@ -1,1 +1,1 @@
-web: cd mnshowerdoor && npm start
+web: cd mnglassrepair && npm start
